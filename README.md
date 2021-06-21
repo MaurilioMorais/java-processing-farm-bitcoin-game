@@ -1,1 +1,1 @@
-# java-processing-farm-game
+# Goku vs Bitcoin game
